@@ -11,7 +11,7 @@ let modalButton = document.getElementById("modalButton");
 
 firstButton.addEventListener("click", function () {
   setContent(
-    "The firts modal",
+    "The first modal",
     "Why did the web developer go to therapy? They had too many unresolved issues in their code, and every time they thought they had fixed them, new bugs kept popping up like they were on a never-ending Git branch!"
   );
   showModal();
